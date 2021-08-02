@@ -1,0 +1,7 @@
+.idea/
+*.zip
+*.pdf
+__pycache__/
+venv/
+figures/
+log_analysis/
